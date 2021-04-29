@@ -16,7 +16,7 @@ router.get('/config', (req, res) => {
         status: true,
         result: {
             prefix : 'MultiPrefix',
-            namabot: 'ZitsraaBOR',
+            namabot: 'ZitsraaBOT',
             namaowner: 'Fmrzyy',
             instagram: 'zitsraa_',
             youtube : 'Zitsraaxyz'
